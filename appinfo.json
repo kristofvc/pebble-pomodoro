@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "kristof.vancauwenbergh@gmail.com",
+    "longName": "Pomodoro",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/action_icon_plus.png",
+                "name": "IMAGE_ACTION_ICON_PLUS",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_minus.png",
+                "name": "IMAGE_ACTION_ICON_MINUS",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Pomodoro",
+    "uuid": "92faf26e-0db1-4c2d-8e71-b704f88b6d5a",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
